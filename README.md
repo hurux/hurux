@@ -14,9 +14,8 @@ A versatile developer driven by curiosity and a passion for exploring diverse te
 ### 🛠️ Technologies & Tools
 
 - 🐍 **Python**
-- 💻 **C# / C++**
-- 🌐 **JavaScript / HTML5 / CSS3**
-- 🛠️ **Git & GitHub**
+- 💻 **C#**
+- 🛠️ **GitHub**
 - 📝 **Visual Studio Code**
 
 ---
