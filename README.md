@@ -6,7 +6,7 @@ A versatile developer driven by curiosity and a passion for exploring diverse te
 - 🌱 **Core Goals:** Shifting from theory to mastery by building real-world projects, gaining hands-on production experience, and writing clean, professional code.
 - 💬 **Tech Talks:** Open to discussing project ideas, troubleshooting complex bugs, or just having a good chat about technology.
 - 👯 **Collaboration:** Eager to participate in team projects, technical discussions, and code reviews to learn from others.
-- 📫 **Connect with me:** Social links are coming soon! Feel free to open an issue or reach out directly via GitHub for now.
+- 📫 **Connect with me:** You can reach me via the Instagram account in my bio.
 - ⚡ **Fun fact:** I spend 90% of my time thinking of random project ideas and 10% actually coding them.
 
 ---
